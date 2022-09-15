@@ -1,1 +1,1 @@
-printf("test");
+cout("test");
