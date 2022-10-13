@@ -1,5 +1,5 @@
 # aberrantpp
-Aberrant++ language
+Aberrant++ Language
 
 Made for fun, this language is aimed at developers with aberrant syntax, dont take this repo seriously but feel free to modify as you wish
 
